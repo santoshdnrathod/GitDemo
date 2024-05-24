@@ -22,6 +22,7 @@ public class BaseClass
 	@AfterClass
 	public void tearDown()
 	{
+		System.out.println("Browser closed sucessfully");
 		driver.quit();
 	}
 }
