@@ -3,3 +3,4 @@ modified second line..
 3rd line added in feature-1
 4th line added from git repo 
 5th line added from get remote repository
+6th line added by Dev-2.
